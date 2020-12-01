@@ -4,6 +4,8 @@ import sys
 import time
 import threading
 
+def acb(s):
+    return s
 
 class WebServer(object):
 
